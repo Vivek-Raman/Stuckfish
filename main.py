@@ -4,6 +4,7 @@ from data.classes.ChessMatch import chess_match
 from data.classes.agents.RandomPlayer import RandomPlayer
 from data.classes.agents.HumanPlayer import HumanPlayer
 from data.classes.agents.ChessAgent import ChessAgent
+from data.classes.agents.MCTSPlayer import MCTSPlayer
 
 
 def main():
